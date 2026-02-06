@@ -15,6 +15,8 @@ This project is an interactive Power BI dashboard built to analyze Blinkit retai
 - Conducted category-wise sales analysis to identify high- and low-performing products.
 - Compared Low Fat and Regular product sales to understand customer preferences.
 
+## Dasboard Interaction <a href="https://github.com/Muskan-sharma123/Blinkit-Sales-Performance-Dashboard-/blob/main/Blinkit%20%20dashboard.pbix">  View Dashboard </a>
+
 ## Dashboard Features
 - KPI cards for quick performance overview
 - Dynamic slicers for outlet size, location, and item type
